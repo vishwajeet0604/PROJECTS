@@ -28,13 +28,6 @@ AUC - 0.63
  
  # Top 10 drivers from the Model
 
-- MntMeatProducts
-- Income
-- AcceptedCmp3_1
-- Customer_Tenure_9
-- MntFishProducts
-
-# The Best Offers should be provided on the following products
 - Wines Products
 - Fish Products
 - Meat Products
@@ -44,3 +37,9 @@ AUC - 0.63
 - NumCatalogPurchases_10
 - NumCatalogPurchases_6
 - NumWebPurchases_7
+
+# The Best Offers should be provided on the following products
+- Wines Products
+- Fish Products
+- Meat Products
+- Gold Products
